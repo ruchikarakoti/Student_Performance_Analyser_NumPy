@@ -15,4 +15,4 @@ This project analyzes student marks using NumPy to calculate:
 - Mean, max, min operations
 - Data analysis using Python
 
-This project is part of my Data Analyst learning journey.
+This project is part of my Data Analyst learning journey. 
